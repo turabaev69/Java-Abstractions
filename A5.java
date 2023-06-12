@@ -6,9 +6,9 @@
 
 import java.util.Scanner; 
 
-// abstract class Bike with one abstract method sum works as well. if u want to test, just comment abstract class with four abstract methods and -->
-//  change name of integer inside child class to all similar like this --> (div --> sum .etc) 
-// (int a3 = obj.div(num1, num2); --> int a3 = obj.sum(num1, num2);)
+// // abstract class Bike with one abstract method sum works as well. if u want to test, just comment abstract class with four abstract methods and -->
+// //  change name of integer inside child class to all similar like this --> (div --> sum .etc) 
+// // (int a3 = obj.div(num1, num2); --> int a3 = obj.sum(num1, num2);)
 
 // abstract class Bike {
 //   abstract int sum(int a, int b);
