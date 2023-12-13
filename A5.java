@@ -12,23 +12,8 @@ abstract class Bike {
   abstract int div(int a, int b);
   abstract int mul(int a, int b);
 }
-// class A5 extends Bike {
-//   int sum(int a, int b) {
-//     return (a + b);
-//   }
-// }
 
-// class A1 extends Bike{
-//   int sub(int a, int b) {
-//     return (a - b);
-// }
-// }
 
-// class A4 extends Bike{
-//   int mul(int a, int b) {
-//     return (a * b);
-// }
-// }
 
 class A3 extends Bike{
   int div(int a, int b) {
