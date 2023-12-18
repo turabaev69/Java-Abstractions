@@ -2,6 +2,9 @@
 // JAVA Program takes operation and two integers num1 and num2, 
 // according to chosen operation (-, +, *, %), gives results of the integers (num1 and num2) calulated 
 // via Abstract methods which dont have bodies inside abstract class.  but provided their body inside 
+
+
+
 /// sub class (with 3 @Overrides ) and called them from main class via (object) objects  with two integers type parameters
 
 import java.util.Scanner; 
